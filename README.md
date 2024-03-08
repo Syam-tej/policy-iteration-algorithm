@@ -24,10 +24,8 @@ The problem being addressed in this code is a specific MDP called "Slippery Walk
 
 **Iteration:**
 - Repeat steps 2 and 3 until the policy no longer changes (convergence).
-```
-DEVELOPED BY : P SYAM TEJ
-REF NO : 212221240056
-```
+### DEVELOPED BY : P SYAM TEJ
+### REF NO : 212221240056
 ## POLICY IMPROVEMENT FUNCTION:
 ```python3
 def policy_improvement(V, P, gamma=1.0):
